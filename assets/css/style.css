@@ -579,12 +579,8 @@ body { background: var(--white); }
   font-size: var(--fs-4);
 }
 
-.footer-link {
-  color: var(--silver-chalice);
-  font-family: var(--ff-rubik);
-  padding-block: 10px;
-  transition: var(--transition);
-}
+
+
 
 .footer-link:is(:hover, :focus) {
   color: var(--cultured);
